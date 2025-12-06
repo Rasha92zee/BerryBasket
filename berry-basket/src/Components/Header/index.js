@@ -1,6 +1,14 @@
 const Header = () => {
     return (
-        <></>
+        <>
+            <div className="header">
+                <div className="top-strip .bg-blue">
+                    <div className="container">
+                        <p className="mb-0 mt-0 text-center">Free Shipping Over <b>$100</b> & Free Returns</p>
+                    </div>
+                </div>
+            </div>  
+        </>
     )
 }
 
