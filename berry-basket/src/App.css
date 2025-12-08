@@ -6,8 +6,19 @@
 
 body {
   font-family: "Lato", sans-serif;
+  font-size: 14px;
 }
 
 .bg-blue {
-  background-color: #6895da;
+  background: #387df6;
+}
+
+.headerWrapper .top-strip {
+  padding: 8px 0;
+}
+
+.headerWrapper .top-strip p {
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
 }
